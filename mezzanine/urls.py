@@ -16,7 +16,7 @@ from mezzanine.conf import settings
 from mezzanine.core.sitemaps import DisplayableSitemap
 
 
-urlpatterns = [*]
+urlpatterns = []
 
 # JavaScript localization feature
 js_info_dict = {'domain': 'django'}
